@@ -1,11 +1,11 @@
 ﻿using System;
-
+/// <summary>
+/// Cреднее арифметическое через цикл do while.
+/// </summary>
 namespace Average
 {
     class Program
-    {/// <summary>
-     /// Cреднее арифметическое через цикл do while.
-     /// </summary>
+    {
         static void Main(string[] args)
         {
             int a = 0;
